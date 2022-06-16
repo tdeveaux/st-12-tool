@@ -1397,7 +1397,7 @@
   "articleDescription": "PC SWEET KALE SALAD KIT 340G",
   "articleNumber": "21334070",
   "department": "Produce",
-  "layout": ""
+  "layout": "BAGGED_SALAD_2002"
 }, {
   "articleDescription": "PC SWEET KALE SALAD KIT 680G",
   "articleNumber": "21334074",
@@ -1417,7 +1417,7 @@
   "articleDescription": "LB EXM GLVE VNYL CLR PWDR FREE",
   "articleNumber": "21345552",
   "department": "OTC",
-  "layout": ""
+  "layout": "01_FIRST_AID_1001"
 }, {
   "articleDescription": "VILLAGGIO WHITE",
   "articleNumber": "21345598",
@@ -1427,17 +1427,17 @@
   "articleDescription": "GM CINN TOAST CRNCH JUMBO",
   "articleNumber": "21347133",
   "department": "Grocery",
-  "layout": ""
+  "layout": "13_CEREAL_3001"
 }, {
   "articleDescription": "FLEI QUICK RISE YEAST",
   "articleNumber": "21351074",
   "department": "Grocery",
-  "layout": ""
+  "layout": "11_FLOUR_2004"
 }, {
   "articleDescription": "PC MILK CHOCOLATE CASHEWS",
   "articleNumber": "21356984",
   "department": "Grocery",
-  "layout": ""
+  "layout": "09_CONFECTIONARY_4002"
 }, {
   "articleDescription": "MM NUTRI MIXED BERRY FIBRE",
   "articleNumber": "21357526",
@@ -1447,7 +1447,7 @@
   "articleDescription": "LB HAND SOAP, ALOEVERA N VIT E",
   "articleNumber": "21357613001",
   "department": "HBA",
-  "layout": ""
+  "layout": "03_PERSONAL_WASH_4001"
 }, {
   "articleDescription": "LB HAND SOAP, CREAMY ALOE VERA",
   "articleNumber": "21357613004",
@@ -1457,7 +1457,7 @@
   "articleDescription": "CHRE CRISPERS RANCH",
   "articleNumber": "21358304",
   "department": "Grocery",
-  "layout": ""
+  "layout": "CRACKERS_1002"
 }, {
   "articleDescription": "CDFM SWEET POTATO CHEWS VP",
   "articleNumber": "21358526",
@@ -1467,7 +1467,7 @@
   "articleDescription": "FERC ROCHER BAG",
   "articleNumber": "21358719",
   "department": "Grocery",
-  "layout": ""
+  "layout": "09_CONFECTIONARY_4005"
 }, {
   "articleDescription": "FROC RAFFAELLO BAG",
   "articleNumber": "21358721",
@@ -1477,7 +1477,7 @@
   "articleDescription": "FROC RONDNOIR BAG",
   "articleNumber": "21358722",
   "department": "Grocery",
-  "layout": ""
+  "layout": "09_CONFECTIONARY_4005"
 }, {
   "articleDescription": "DOET GPPZ BRUSCHETTA FNGR",
   "articleNumber": "21359549",
@@ -1502,7 +1502,7 @@
   "articleDescription": "GHSH KETCHUP NO SUGAR ADDED",
   "articleNumber": "21362807",
   "department": "Grocery",
-  "layout": ""
+  "layout": "07_CONDIMENTS_1003"
 }, {
   "articleDescription": "MCAF KCUP RAINFRST ESPRESSO",
   "articleNumber": "21363982",
@@ -1512,47 +1512,47 @@
   "articleDescription": "GAIN FE FIREWORKS MB",
   "articleNumber": "21364012",
   "department": "Grocery",
-  "layout": ""
+  "layout": "05_FABRIC_SOFTENERS_3004"
 }, {
   "articleDescription": "PC SORBET RASPBERRY & MANGO",
   "articleNumber": "21364381",
   "department": "Frozen",
-  "layout": ""
+  "layout": "14_FRZ_ICE_CREAM_7004"
 }, {
   "articleDescription": "PC SORBET YUZU CIT & BLUEBERRY",
   "articleNumber": "21364418",
   "department": "Frozen",
-  "layout": ""
+  "layout": "14_FRZ_ICE_CREAM_7004"
 }, {
   "articleDescription": "PC SORBET PINEAPPLE & COCONUT",
   "articleNumber": "21364432",
   "department": "Frozen",
-  "layout": ""
+  "layout": "14_FRZ_ICE_CREAM_7004"
 }, {
   "articleDescription": "FRITO LAY VP CHEESY MX",
   "articleNumber": "21365946",
   "department": "Grocery",
-  "layout": ""
+  "layout": "09_SALTY_SNACKS_11001"
 }, {
   "articleDescription": "FRITO LAY VP LAYS MX",
   "articleNumber": "21367026",
   "department": "Grocery",
-  "layout": ""
+  "layout": "09_SALTY_SNACKS_10001"
 }, {
   "articleDescription": "FRITO LAY VP CLASS MIX",
   "articleNumber": "21367030",
   "department": "Grocery",
-  "layout": ""
+  "layout": "09_SALTY_SNACKS_10001"
 }, {
   "articleDescription": "OD ALL DRESSED",
   "articleNumber": "21367537",
   "department": "Grocery",
-  "layout": ""
+  "layout": "09_SALTY_SNACKS_4006"
 }, {
   "articleDescription": "FANTA ORANGE MINI BOTTLE",
   "articleNumber": "21367763",
   "department": "Grocery",
-  "layout": ""
+  "layout": "10_POP_2002"
 }, {
   "articleDescription": "WNAT TURMERIC CURCUMIN GUMMIES",
   "articleNumber": "21367978",
@@ -1567,7 +1567,7 @@
   "articleDescription": "CHEETOS PUFFS",
   "articleNumber": "21370169",
   "department": "Grocery",
-  "layout": ""
+  "layout": "09_SALTY_SNACKS_8005"
 }, {
   "articleDescription": "TOSTITOS REST STYLE CHIPS",
   "articleNumber": "21370272",
@@ -1587,7 +1587,7 @@
   "articleDescription": "VCKS DAYQ COMPLETE NOFLVSCNT",
   "articleNumber": "21379478",
   "department": "OTC",
-  "layout": ""
+  "layout": "00_COUGH_COLD_4007"
 }, {
   "articleDescription": "TF BROCCOLI CRUNCH KIT 360G",
   "articleNumber": "21381584",
@@ -1602,7 +1602,7 @@
   "articleDescription": "PCO APPLE OATS CINNMN POUCH",
   "articleNumber": "21388171",
   "department": "Baby",
-  "layout": ""
+  "layout": "03_BABY_FC_1005"
 }, {
   "articleDescription": "DSCH DURAGEL CORN REMOVERS",
   "articleNumber": "21388283",
@@ -1627,7 +1627,7 @@
   "articleDescription": "DWNY LIGHT WHITE LVNDR",
   "articleNumber": "21404951",
   "department": "Grocery",
-  "layout": ""
+  "layout": "05_FABRIC_SOFTENERS_2004"
 }, {
   "articleDescription": "KERRS CST KIDS POPS STRBRY",
   "articleNumber": "21408274",
@@ -1637,17 +1637,17 @@
   "articleDescription": "NATURES BOUNTY VITA D SOFT GEL",
   "articleNumber": "21408737",
   "department": "OTC",
-  "layout": ""
+  "layout": "01_VITAMIN_SUPPLEMENTS_5005"
 }, {
   "articleDescription": "PC SP ASIAGO MATURED WEDGE",
   "articleNumber": "21409072",
   "department": "Deli",
-  "layout": ""
+  "layout": "DELI_CHEESE_PARM_1001"
 }, {
   "articleDescription": "LB ADULT ALLERGY",
   "articleNumber": "21409849",
   "department": "OTC",
-  "layout": ""
+  "layout": "00_COUGH_COLD_1005"
 }, {
   "articleDescription": "HMBL SMOKEY BBQ POTATO CHIPS",
   "articleNumber": "21417999",
